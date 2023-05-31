@@ -1,0 +1,3 @@
+Thest file to be staged. 03
+This file has also more information
+and things.
