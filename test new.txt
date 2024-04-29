@@ -1,0 +1,2 @@
+Thest file to be staged. New file available
+Checking how to create a branch properly.
